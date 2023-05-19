@@ -1,2 +1,2 @@
 # KeeperApp
-made using react
+To-Do list app made using react
